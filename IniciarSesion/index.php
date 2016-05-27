@@ -34,7 +34,7 @@
 	<!-- Título de la página -->
 	<title>Ejemplos para proyectos PHP</title>
 
-
+<h1>hola el salvador </h1>
 </head>
 <body>
 <header>
